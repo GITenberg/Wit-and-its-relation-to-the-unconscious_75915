@@ -1,0 +1,44 @@
+_repo: Wit-and-its-relation-to-the-unconscious_75915
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brill, A. A. (Abraham Arden)
+    alias: Brill, Abraham Arden
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '5774'
+    url: http://www.gutenberg.org/2009/agents/5774
+    wikipedia: https://en.wikipedia.org/wiki/Abraham_Brill
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    aliases:
+    - Freud, Sigm.
+    - Freud, Sigismund Schlomo
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sigmund_Freud
+    - https://de.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_issued: '2025-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75915'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001111446
+pgterms:marc905: 20240327104633freud
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bMoffat, Yard and Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wit and its relation to the unconscious
+url: http://www.gutenberg.org/ebooks/75915
