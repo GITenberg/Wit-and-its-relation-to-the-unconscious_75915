@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5774'
     url: http://www.gutenberg.org/2009/agents/5774
     wikipedia: https://en.wikipedia.org/wiki/Abraham_Brill
+covers:
+- cover_type: archival
+  image_path: 75915-h/images/cover.jpg
 creator:
   author:
     agent_name: Freud, Sigmund
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Sigmund_Freud
     - https://de.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75915#Wit-and-its-relation-to-the-unconscious
 gutenberg_issued: '2025-04-20'
 gutenberg_type: Text
 identifiers:
